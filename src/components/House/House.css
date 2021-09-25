@@ -1,0 +1,43 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 22rem;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    box-shadow: 2px 5px 12px 11px gainsboro;
+    border-radius: 0.25rem;
+    text-align: start;
+}
+
+.card-image {
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+.card-body {
+    padding: 0 14px;
+}
+
+.title {
+    color: green;
+    margin: 1rem 0 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.secondary-title {
+    margin: 0.75rem 0;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.card-text {
+    color: gray;
+    font-style: italic;
+}
