@@ -1,0 +1,131 @@
+[{
+		"_id": "614f5ec6eb3a2911a3f82751",
+		"price": 399500,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 5,
+		"ListedBy": "Cobb Gill",
+		"address": "191 Hinsdale Street, Marshall, Louisiana, 8432",
+		"yearBuilt": 2018
+	},
+	{
+		"_id": "614f5ec6a74e7aefec2524b5",
+		"price": 225999,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 5,
+		"bath": 4,
+		"ListedBy": "Arlene Kane",
+		"address": "355 Cook Street, Harviell, Virginia, 8313",
+		"yearBuilt": 2016
+	},
+	{
+		"_id": "614f5ec61a4f8b5263f6ce45",
+		"price": 399500,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 5,
+		"ListedBy": "Talley Harper",
+		"address": "408 Lombardy Street, Leeper, North Carolina, 6614",
+		"yearBuilt": 2019
+	},
+	{
+		"_id": "614f5ec67d74161ac6eb59c3",
+		"price": 334385,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 3,
+		"bath": 3,
+		"ListedBy": "Sandy Keith",
+		"address": "302 Lewis Avenue, Fredericktown, New Jersey, 4659",
+		"yearBuilt": 2014
+	},
+	{
+		"_id": "614f5ec6266abbbd117d93dc",
+		"price": 516143,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 2,
+		"ListedBy": "Cash Butler",
+		"address": "871 National Drive, Neibert, District Of Columbia, 7453",
+		"yearBuilt": 2007
+	},
+	{
+		"_id": "614f5ec6a77c69c8f8af0a94",
+		"price": 109240,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 2,
+		"bath": 2,
+		"ListedBy": "Petersen Dixon",
+		"address": "669 Clinton Avenue, Lutsen, Kansas, 2059",
+		"yearBuilt": 2004
+	},
+	{
+		"_id": "614f5ec6763da8e9fd6cf515",
+		"price": 338210,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 4,
+		"ListedBy": "Kate Phelps",
+		"address": "738 Haring Street, Southview, New Mexico, 8086",
+		"yearBuilt": 2013
+	},
+	{
+		"_id": "614f5fb33392b1eebab2e69d",
+		"price": 349500,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 6,
+		"ListedBy": "Elaine Hubbard",
+		"address": "495 Strauss Street, Canby, Georgia, 1969",
+		"yearBuilt": 2014
+	},
+	{
+		"_id": "614f5fb36afa57ed4e181486",
+		"price": 350000,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 4,
+		"ListedBy": "Branch Buckley",
+		"address": "993 Powers Street, Jacumba, Palau, 6200",
+		"yearBuilt": 2004
+	},
+	{
+		"_id": "614f5fb3b153b8df5f9e08a2",
+		"price": 525370,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 5,
+		"bath": 5,
+		"ListedBy": "Manuela Larson",
+		"address": "807 Laurel Avenue, Steinhatchee, Wyoming, 5453",
+		"yearBuilt": 2021
+	},
+	{
+		"_id": "614f5fb39c81d092fccc7057",
+		"price": 231000,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 3,
+		"bath": 3,
+		"ListedBy": "Rollins Chambers",
+		"address": "555 Irwin Street, Epworth, Arizona, 6508",
+		"yearBuilt": 2012
+	},
+	{
+		"_id": "614f5fb3a28156f2bee85407",
+		"price": 277800,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 2,
+		"bath": 3,
+		"ListedBy": "Dale Morrow",
+		"address": "228 Hicks Street, Brazos, New York, 7156",
+		"yearBuilt": 2012
+	},
+	{
+		"_id": "614f5fb375291e1908969bb2",
+		"price": 457600,
+		"thumb": "http://placehold.it/32x32",
+		"bed": 4,
+		"bath": 4,
+		"ListedBy": "Regina Gillespie",
+		"address": "192 Varet Street, Edmund, Arkansas, 4204",
+		"yearBuilt": 2018
+	}
+]
