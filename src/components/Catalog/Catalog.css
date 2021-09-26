@@ -6,7 +6,7 @@
 
 .house-container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
     place-self: center;
     row-gap: 20px;
     column-gap: 40px;

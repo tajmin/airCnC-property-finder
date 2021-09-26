@@ -11,8 +11,8 @@ const Cart = (props) => {
         <div className="cart-container">
             <div className="cart">
                 <h2>Total Cost: ${totalPrice.toLocaleString()}</h2>
-                <h3>Total Number of Properties Selected: {cart.length}</h3>
-                {cart.map(house => <h4>{house.address}</h4>)}
+                <h3>Properties Added To Cart:  {cart.length}</h3>
+                {cart.map(house => <h4 key={house._id}>{house.address}</h4>)}
             </div>
         </div>
     );
