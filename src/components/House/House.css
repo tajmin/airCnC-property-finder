@@ -7,7 +7,7 @@
     word-wrap: break-word;
     background-color: #fff;
     background-clip: border-box;
-    box-shadow: 2px 5px 12px 11px gainsboro;
+    box-shadow: 3px 7px 14px 5px #bdbdbd;
     border-radius: 0.25rem;
     text-align: start;
 }
@@ -22,6 +22,7 @@
 
 .card-body {
     padding: 0 14px;
+    height: 100%;
 }
 
 .title {
@@ -40,4 +41,20 @@
 .card-text {
     color: gray;
     font-style: italic;
+}
+
+button {
+    background-color: lightcoral;
+    padding: 12px 0;
+    border: none;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+    border-bottom-left-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    transition: all 0.5s;
+}
+
+button:hover {
+    background-color: darkolivegreen;
 }
