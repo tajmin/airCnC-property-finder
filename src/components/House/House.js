@@ -4,6 +4,7 @@ import './House.css'
 import { faCartPlus, faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
 
 const House = (props) => {
+    //destructuring house properties
     const { price, thumb, bed, bath, listedBy, address, yearBuilt } = props.house;
 
     return (

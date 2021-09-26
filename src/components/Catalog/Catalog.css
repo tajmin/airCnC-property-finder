@@ -1,3 +1,7 @@
+/*---------------------------------------/
+    Custom Styles for catalog container, 
+    house container. Displayed in grid.
+/--------------------------------------*/
 .catalog-container {
     padding-top: 50px;
     display: grid;

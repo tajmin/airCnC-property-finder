@@ -4,6 +4,7 @@ import './Cart.css'
 const Cart = (props) => {
     const { cart } = props;
 
+    //Calculates price and no. of items of cart
     const totalReducer = (previous, house) => previous + house.price;
     const totalPrice = cart.reduce(totalReducer, 0);
 

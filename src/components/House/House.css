@@ -1,3 +1,7 @@
+/*---------------------------------------/
+    Styles for house cards, card image, 
+    text, and button 
+/--------------------------------------*/
 .card {
     position: relative;
     display: flex;

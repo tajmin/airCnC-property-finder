@@ -7,13 +7,14 @@ const Catalog = () => {
     const [houses, setHouses] = useState([]);
     const [cart, setCart] = useState([]);
 
-
+    //fetches data from storage
     useEffect(() => {
         fetch('./houselist.JSON')
             .then(res => res.json())
             .then(data => setHouses(data))
     }, [])
 
+    //add items to cart
     const handleAddToCart = house => {
         if (!cart.find(item => item._id === house._id)) {
             const newItem = [...cart, house];
