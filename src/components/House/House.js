@@ -16,7 +16,7 @@ const House = (props) => {
                 <p className="card-text"><small>Property listed by {listedBy}</small></p>
                 <p>Built on {yearBuilt}</p>
             </div>
-            <button onClick={() => props.handleDetails()}><FontAwesomeIcon icon={faCartPlus} /> Add to Cart</button>
+            <button onClick={() => props.handleAddToCart(props.house)}><FontAwesomeIcon icon={faCartPlus} /> Add to Cart</button>
         </div>
     );
 };

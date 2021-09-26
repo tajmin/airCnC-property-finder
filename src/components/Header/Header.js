@@ -6,7 +6,8 @@ const Header = () => {
         <div className="header">
             <h1>AirC&C</h1>
             <h4>Real Estate Finder</h4>
-            <p><strong>Start Buying Houses Now From Our Listings</strong></p>
+            <p><strong>Start Buying Houses From Our Listings<br />
+                $1,000,000 Budget</strong></p>
         </div>
     );
 };
